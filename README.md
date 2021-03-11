@@ -13,12 +13,44 @@ I am senior full-stack engineer from China.
 I am very proficient in React(JS/TS) & Redux(Saga/Thunk), Django & Django Rest Framework, Next.js , Node.js, React Native, Vue.js, and so on. 
 
 
-## 📬 Get in touch
+## 📬 Get in Touch
 
 
-- Website: [https://zhaoping-portfolio.herokuapp.com][1]
-- LinkedIn: [https://linkedin.com/in/zhcharles][2]
-- Stackoverflow: [https://stackoverflow.com/users/14272266/versatile-developer][3]
+- Website:  https://zhaoping-portfolio.herokuapp.com [1]
+- LinkedIn:  https://linkedin.com/in/zhcharles [2]
+- Stackoverflow:  https://stackoverflow.com/users/14272266/versatile-developer [3]
+
+## My Skill Set:
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/jquery-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/visualstudio-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/redux-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
+</p>
 
 ## &#x1f4c8; My GitHub Stats
 
