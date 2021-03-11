@@ -23,33 +23,33 @@ I am very proficient in React(JS/TS) & Redux(Saga/Thunk), Django & Django Rest F
 ## My Skill Set:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/react-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/nodejs-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/express-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/mongodb-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dversa-dev/versa-dev/main/assets/javascript-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/css3-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/sass-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/react-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/jquery-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/jquery-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/html5-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/bootstrap-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/visualstudio-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/visualstudio-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/redux-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/redux-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/git-original.svg" height="auto" width="40">
 </p>
 
 ## &#x1f4c8; My GitHub Stats
