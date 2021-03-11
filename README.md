@@ -31,7 +31,7 @@ I am very proficient in React(JS/TS) & Redux(Saga/Thunk), Django & Django Rest F
 
 <img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/mongodb-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dversa-dev/versa-dev/main/assets/javascript-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/javascript-plain.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/css3-original.svg" height="auto" width="40">
 
