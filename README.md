@@ -16,9 +16,9 @@ I am very proficient in React(JS/TS) & Redux(Saga/Thunk), Django & Django Rest F
 ## 📬 Get in touch
 
 
-- Website: [zhaoping-portfolio.herokuapp.com][1]
-- LinkedIn: [linkedin.com/in/zhcharles][2]
-- Stackoverflow: [stackoverflow.com/users/14272266/versatile-developer][3]
+- Website: [https://zhaoping-portfolio.herokuapp.com][1]
+- LinkedIn: [https://linkedin.com/in/zhcharles][2]
+- Stackoverflow: [https://stackoverflow.com/users/14272266/versatile-developer][3]
 
 ## &#x1f4c8; My GitHub Stats
 
