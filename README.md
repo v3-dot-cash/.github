@@ -13,13 +13,6 @@ I am senior full-stack engineer from China.
 I am very proficient in React(JS/TS) & Redux(Saga/Thunk), Django & Django Rest Framework, Next.js , Node.js, React Native, Vue.js, and so on. 
 
 
-## 📬 Get in Touch
-
-
-- Website:  https://zhaoping-portfolio.herokuapp.com [1]
-- LinkedIn:  https://linkedin.com/in/zhcharles [2]
-- Stackoverflow:  https://stackoverflow.com/users/14272266/versatile-developer [3]
-
 ## My Skill Set:
 
 <p align="left">
@@ -67,3 +60,11 @@ I am very proficient in React(JS/TS) & Redux(Saga/Thunk), Django & Django Rest F
 <a href="https://github.com/versa-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=versa-dev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zhao's GitHub Stats" />
 </a>
+
+
+## 📬 Get in Touch
+
+
+- Website:  https://zhaoping-portfolio.herokuapp.com [1]
+- LinkedIn:  https://linkedin.com/in/zhcharles [2]
+- Stackoverflow:  https://stackoverflow.com/users/14272266/versatile-developer [3]
