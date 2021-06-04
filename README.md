@@ -11,7 +11,7 @@ Hey 👋🏻,
 I am a senior full-stack engineer with 8 years of hands on experience from China.
 
 My Proficient Skills: 
- - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice), Next.js, Vue.js, Angular.js
+ - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, Angular.js
  - Backend: Django & Django Restframework, Node.js, Express.js, Laravel
  - Mobile: React Native, Ionic, Android(Java)
  - Others: Mathematics, Machine Learning, Strong Algorithm, Data Science, Several UI frameworks (Material UI, Ant Design, React Bootstrap, ...)
