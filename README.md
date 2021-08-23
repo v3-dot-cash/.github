@@ -69,6 +69,6 @@ My Proficient Skills:
 ## 📬 Get in Touch
 
 
-- Website:  https://zhaoping-portfolio.herokuapp.com [1]
-- LinkedIn:  https://linkedin.com/in/zhcharles [2]
-- Stackoverflow:  https://stackoverflow.com/users/14272266/versatile-developer [3]
+- Email:  mailto:zhaoping.dev@gmail.com
+- Skype:  https://join.skype.com/invite/VsuSSsTKuntZ
+- Discord:  https://discord.gg/3TNTvB7unX
