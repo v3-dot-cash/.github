@@ -60,6 +60,8 @@ We are building the ability to do transactions for free, safely and instantly. W
 
 ## 📬 Get in Touch
 
-- Email: mailto:zhaoping.dev@gmail.com
-- Skype: https://join.skype.com/invite/VsuSSsTKuntZ
-- Discord: https://discord.gg/3TNTvB7unX
+- Email: mailto:hh@v3.cash
+- Discord: https://discord.gg/qFTEmBGzxU
+- LinkedIn: https://www.linkedin.com/company/v3-dot-cash
+- Twitter: https://twitter.com/v3_dot_cash
+- Medium: https://blog.alexanderhamilton.ai/
