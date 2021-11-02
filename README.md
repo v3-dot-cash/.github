@@ -1,4 +1,4 @@
-![alt README header](https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/hamilton.jpeg)
+![alt README header](https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/hamilton.jpeg)
 ![GitHub Views](https://komarev.com/ghpvc/?username=v3-dot-cash&color=FAC151)
 [![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/v3-dot-cash)
 [![typescript](https://img.shields.io/badge/Django-Expert-FAC151.svg?logo=django&logoWidth=20)](https://github.com/v3-dot-cash)
@@ -13,39 +13,39 @@ We are building the ability to do transactions for free, safely and instantly. W
 ## My Skill Set:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/react-original.svg" height="auto" width="40">
   
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/django.png" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/django.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/nodejs-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/nodejs-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/express-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/express-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/mongodb-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/mongodb-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/angular.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/angular.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/javascript-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/javascript-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/python.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/python.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/css3-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/css3-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/sass-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/sass-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/react-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/jquery-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/jquery-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/html5-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/html5-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/bootstrap-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/bootstrap-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/visualstudio-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/visualstudio-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/redux-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/redux-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/tree/assets/git-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/git-original.svg" height="auto" width="40">
 </p>
 
 ## &#x1f4c8; My GitHub Stats
