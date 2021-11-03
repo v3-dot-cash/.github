@@ -1,8 +1,8 @@
 ![alt README header](https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/hamilton.jpeg)
 ![GitHub Views](https://komarev.com/ghpvc/?username=v3-dot-cash&color=FAC151)
-[![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/v3-dot-cash)
+<!-- [![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/v3-dot-cash)
 [![typescript](https://img.shields.io/badge/Django-Expert-FAC151.svg?logo=django&logoWidth=20)](https://github.com/v3-dot-cash)
-[![typescript](https://img.shields.io/badge/Mathematics-Expert-FAC151.svg?logo=mathematics&logoWidth=20)](https://github.com/v3-dot-cash)
+[![typescript](https://img.shields.io/badge/Mathematics-Expert-FAC151.svg?logo=mathematics&logoWidth=20)](https://github.com/v3-dot-cash) -->
 
 ## AlexanderHamilton.ai
 
