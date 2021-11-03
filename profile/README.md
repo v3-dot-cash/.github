@@ -39,17 +39,6 @@ Our products are built on top of modern technologies.
 <img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/git-original.svg" height="auto" width="40">
 </p>
 
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/v3-dot-cash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=versa-dev&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/v3-dot-cash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=versa-dev&&hide=PHP,html&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zhao's GitHub Stats" />
-</a>
-
 ## 📬 Get in Touch
 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hh@v3.cash)
