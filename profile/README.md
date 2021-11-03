@@ -15,16 +15,28 @@ We are building the ability to do transactions for free, safely and instantly. W
 
 Our products are built on top of modern technologies.
 
-<p>
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sass.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/figma.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/icon-laravel.jpg" width="67.5px" />
+<p align="left">
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/react-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/nodejs-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/javascript-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/css3-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/sass-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/jquery-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/html5-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/bootstrap-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/visualstudio-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/redux-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/git-original.svg" height="auto" width="40">
 </p>
 
 
