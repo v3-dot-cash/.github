@@ -41,7 +41,7 @@ Our products are built on top of modern technologies.
 ## 📬 Get in Touch
 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hh@v3.cash)
-- Discord: https://discord.gg/qFTEmBGzxU
-- LinkedIn: https://www.linkedin.com/company/v3-dot-cash
+[https://img.shields.io/badge/discord-333399.svg?&style=for-the-badge&logo=discord&logoColor=white](https://discord.gg/qFTEmBGzxU)
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/company/v3-dot-cash)
 - Twitter: https://twitter.com/v3_dot_cash
 - Medium: https://blog.alexanderhamilton.ai/
