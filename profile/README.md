@@ -40,7 +40,7 @@ Our products are built on top of modern technologies.
 
 ## 📬 Get in Touch
 
-- Email: mailto:hh@v3.cash
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hh@v3.cash)
 - Discord: https://discord.gg/qFTEmBGzxU
 - LinkedIn: https://www.linkedin.com/company/v3-dot-cash
 - Twitter: https://twitter.com/v3_dot_cash
