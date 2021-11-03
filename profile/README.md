@@ -4,13 +4,12 @@
 [![typescript](https://img.shields.io/badge/Django-Expert-FAC151.svg?logo=django&logoWidth=20)](https://github.com/v3-dot-cash)
 [![typescript](https://img.shields.io/badge/Mathematics-Expert-FAC151.svg?logo=mathematics&logoWidth=20)](https://github.com/v3-dot-cash) -->
 
-# AlexanderHamilton.ai
+# <a href="https://www.alexanderhamilton.ai">AlexanderHamilton.ai</a>
 
 ## We are creating a zero-fee instant transactions platform
 
 We are building the ability to do transactions for free, safely and instantly. We charge flat fees for compliance and automation. We re-imburse customers for honest errors and omissions
 
-## -> https://www.alexanderhamilton.ai
 
 ## My Skill Set:
 
