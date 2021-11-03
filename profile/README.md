@@ -10,45 +10,21 @@
 
 We are building the ability to do transactions for free, safely and instantly. We charge flat fees for compliance and automation. We re-imburse customers for honest errors and omissions
 
+## Our technologies
 
-## My Skill Set:
+Our products are built on top of modern technologies.
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/react-original.svg" height="auto" width="40">
-  
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/django.png" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/nodejs-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/express-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/mongodb-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/angular.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/javascript-plain.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/python.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/css3-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/sass-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/react-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/jquery-plain.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/html5-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/bootstrap-plain.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/visualstudio-plain.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/redux-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/git-original.svg" height="auto" width="40">
+<p>
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sass.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/figma.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/icon-laravel.jpg" width="67.5px" />
 </p>
-
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/v3-dot-cash">
