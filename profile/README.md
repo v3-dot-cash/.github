@@ -16,6 +16,9 @@ We are building the ability to do transactions for free, safely and instantly. W
 Our products are built on top of modern technologies.
 
 <p align="left">
+  
+<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/next-js-seeklogo.com.svg" height="auto" width="40">
+  
 <img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/react-original.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/nodejs-original.svg" height="auto" width="40">
