@@ -16,27 +16,30 @@ We are building the ability to do transactions for free, safely and instantly. W
 Our products are built on top of modern technologies.
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/react-original.svg" height="auto" width="40">
+  
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/next.svg" height="auto" width="40">
+  
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/react-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/nodejs-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/nodejs-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/javascript-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/javascript-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/css3-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/css3-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/sass-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/sass-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/jquery-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/jquery-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/html5-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/html5-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/bootstrap-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/bootstrap-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/visualstudio-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/visualstudio-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/redux-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/redux-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/git-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/git-original.svg" height="auto" width="40">
 </p>
 
 ## 📬 Get in Touch
