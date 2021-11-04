@@ -17,9 +17,9 @@ Our products are built on top of modern technologies.
 
 <p align="left">
   
-<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/next-js-seeklogo.com.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/next-js-seeklogo.com.svg" height="auto" width="40">
   
-<img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/react-original.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/versa-dev/versa-dev/main/assets/nodejs-original.svg" height="auto" width="40">
 
